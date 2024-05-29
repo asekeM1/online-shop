@@ -1,0 +1,842 @@
+[
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A25 5G  Blue black",
+        "memory": "128GB",
+        "price": "109890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a25_5g_128gb_blue_black_277337_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A15  Blue black",
+        "memory": "128GB",
+        "price": "79890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a15_128gb_blue_black_277335_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Natural Titanium (MTV53)",
+        "memory": "256/8GB",
+        "price": "649990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_256gb_82566148_natural_titanium_mtv53_274408_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05s 128Gb Black",
+        "memory": "N/A",
+        "price": "64890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05s_128gb_black_276033_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  Natural Titanium (MU793)",
+        "memory": "256GB",
+        "price": "719990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_256gb_natural_titanium_mu793_274420_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 13  Midnight",
+        "memory": "128GB",
+        "price": "329990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F252945_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Natural Titanium (MTUX3)",
+        "memory": "128/8GB",
+        "price": "589990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_128gb_81286148_natural_titanium_mtux3_274404_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A15  Blue",
+        "memory": "128GB",
+        "price": "79890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a15_128gb_blue_277334_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y03 128/4 Gb Space Black",
+        "memory": "N/A",
+        "price": "59990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y03_thx_656_13_4_128gb_space_black_279690_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y17s 128/4Gb Forest Green",
+        "memory": "N/A",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y17s_thx_656_50_4_1284gb_forest_green_276059_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor 90 Lite  Midnight Black",
+        "memory": "8+256GB",
+        "price": "109990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_90_lite_8256gb_midnight_black_272837_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05 64Gb Black",
+        "memory": "N/A",
+        "price": "49890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05_64gb_black_276036_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 256/8  Midnight Black",
+        "memory": "GB",
+        "price": "109990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_256gb8gb_thx_md_667_108_4_midnight_black_277330_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 13  Starlight",
+        "memory": "128GB",
+        "price": "329990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F252946_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y27s 128/8Gb Burgundy Black",
+        "memory": "N/A",
+        "price": "94990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y27s_thx_664_50_4_1288gb_burgundy_black_276060_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A15  Light blue",
+        "memory": "128GB",
+        "price": "79890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a15_128gb_light_blue_277333_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A25 5G  Light blue",
+        "memory": "128GB",
+        "price": "109890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a25_5g_128gb_light_blue_277336_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15  Black (MTP03)",
+        "memory": "128GB",
+        "price": "449990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_128gb_black_mtp03_274372_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A55 5G 256/8  Awesome Navy",
+        "memory": "GB",
+        "price": "229890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a556ezkcskz_galaxy_a55_5g_256gb_awesome_navy_279428_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A35 5G  Awesome Navy",
+        "memory": "128GB",
+        "price": "169890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a35_5g_128gbawesome_navy_279419_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Blue Titanium (MTV63)",
+        "memory": "256/8GB",
+        "price": "649990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_256gb_82566148_blue_titanium_mtv63_274409_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 128/8  Midnight Black",
+        "memory": "GB",
+        "price": "99990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_128gb8gb_thx_md_667_108_4_midnight_black_277327_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y100 256/8 Gb Crystal black",
+        "memory": "N/A",
+        "price": "159990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y100_thx_667_50_5_256gb_crystal_black_279688_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 11  Black",
+        "memory": "128GB",
+        "price": "269990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F228942_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A34  Black",
+        "memory": "128GB",
+        "price": "129890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a346ezkaskz_thx_66_48_4_galaxy_a34_128gb_black_271092_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15  Blue (MTP43)",
+        "memory": "128GB",
+        "price": "449990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_128gb_blue_mtp43_274375_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23 FE 5G  Graphite",
+        "memory": "256GB",
+        "price": "289890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s23_fe_5g_256gb_graphite_275679_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05s 128Gb Light Violet",
+        "memory": "N/A",
+        "price": "64890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05s_128gb_light_violet_276032_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  Blue Titanium (MU7A3)",
+        "memory": "256GB",
+        "price": "719990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_256gb_blue_titanium_mu7a3_274421_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  Black Titanium (MU773)",
+        "memory": "256GB",
+        "price": "719990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_256gb_black_titanium_mu773_274418_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05s 128Gb Silver",
+        "memory": "N/A",
+        "price": "64890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05s_128gb_silver_276034_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 Pro 256/8  Midnight Black",
+        "memory": "GB",
+        "price": "139990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_pro_256gb8gb_thx_md_667_200_4_midnight_black_277296_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A55 5G 128/8  Awesome Navy",
+        "memory": "GB",
+        "price": "209890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a556ezkaskz_galaxy_a55_5g_128gb_awesome_navy_279425_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  Natural Titanium (MU7E3)",
+        "memory": "512GB",
+        "price": "839990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_512gb_natural_titanium_mu7e3_274424_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05 64Gb Silver",
+        "memory": "N/A",
+        "price": "49890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05_64gb_silver_276037_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Black Titanium (MTUV3)",
+        "memory": "128/8GB",
+        "price": "589990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_128gb_81286148_black_titanium_mtuv3_274402_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 14  Midnight",
+        "memory": "128GB",
+        "price": "394990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F265269_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 Ultra 5G  Titanium Black",
+        "memory": "256/12GB",
+        "price": "609890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s928bzkgskz_thx_68_200_5_galaxy_s24_ultra_5g_256gb_titanium_black_277515_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y17s 128/6Gb Forest Green",
+        "memory": "N/A",
+        "price": "79990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y17s_thx_656_50_4_128gb_forest_green_274196_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23 FE 5G  Graphite",
+        "memory": "128GB",
+        "price": "259890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s23_fe_5g_128gb_graphite_275675_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 5G  Onyx Black",
+        "memory": "128GB",
+        "price": "369890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s24_5g_128gb_onyx_black_277499_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y03 128/4 Gb Gem Green",
+        "memory": "N/A",
+        "price": "59990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y03_thx_656_13_4_128gb_gem_green_279689_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X7b  Flowing Silver",
+        "memory": "128GB",
+        "price": "89990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_honor_x7b_812868108_flowing_silver_276157_1a.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 Ultra 5G  Titanium Gray",
+        "memory": "256/12GB",
+        "price": "609890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s928bztgskz_thx_68_200_5_galaxy_s24_ultra_5g_256gb_titanium_gray_277514_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23+  Black",
+        "memory": "512GB",
+        "price": "399890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s916bzkgskz_thx_66_50_5_galaxy_s23_512gb_black_269590_1q.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 13  Blue",
+        "memory": "128GB",
+        "price": "329990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F252949_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 13  Midnight",
+        "memory": "256GB",
+        "price": "394990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F252950_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 Ultra 5G  Titanium Gray",
+        "memory": "512/12GB",
+        "price": "669890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s928bzthskz_thx_68_200_5_galaxy_s24_ultra_5g_512gb_titanium_gray_277518_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Blue Titanium (MTV03)",
+        "memory": "128/8GB",
+        "price": "589990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_128gb_81286148_blue_titanium_mtv03_274405_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 Ultra 5G  Titanium Black",
+        "memory": "512/12GB",
+        "price": "669890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s928bzkhskz_thx_68_200_5_galaxy_s24_ultra_5g_512gb_titanium_black_277519_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 5G  Marble Gray",
+        "memory": "256GB",
+        "price": "409890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s24_5g_256gb_marble_gray_277502_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo V29 256Gb Noble Black",
+        "memory": "N/A",
+        "price": "289990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_vivo_v29_256gb_noble_black_274198_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 14  Starlight",
+        "memory": "128GB",
+        "price": "394990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F265270_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  White Titanium (MU783)",
+        "memory": "256GB",
+        "price": "719990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_256gb_white_titanium_mu783_274419_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  White Titanium (MTV43)",
+        "memory": "256/8GB",
+        "price": "649990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_256gb_82566148_white_titanium_mtv43_274407_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  White Titanium (MTUW3)",
+        "memory": "128/8GB",
+        "price": "589990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_128gb_81286148_white_titanium_mtuw3_274403_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X6a  Midnight Black",
+        "memory": "128GB",
+        "price": "64990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_honor_x6a_128gb4gb_thx_656_50_4_midnight_black_273109_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15  Pink (MTP13)",
+        "memory": "128GB",
+        "price": "449990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_128gb_pink_mtp13_274373_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo V27E 128Gb Lively Green",
+        "memory": "N/A",
+        "price": "139990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_v27e_thx_662_64_8_128gb_lively_green_271234_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X5 Plus  Midnight Black",
+        "memory": "64GB",
+        "price": "49990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_honor_x5_plus_64gb4gb_thx_656_50_4_midnight_black_273112_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 128/8  Ice Blue",
+        "memory": "GB",
+        "price": "99990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_128gb8gb_thx_md_667_108_4_ice_blue_277328_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 11  Black",
+        "memory": "64GB",
+        "price": "239990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F228936_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A24  Black",
+        "memory": "128GB",
+        "price": "94890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a245fzkvskz_thx_65_50_4_galaxy_a24_128gb_black_271778_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A34  Black",
+        "memory": "256GB",
+        "price": "159890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a346ezkeskz_thx_66_48_4_galaxy_a34_256gb_black_271096_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro  Black Titanium (MTV13)",
+        "memory": "256/8GB",
+        "price": "649990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_apple_iphone_15_pro_256gb_82566148_black_titanium_mtv13_274406_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A54  Black",
+        "memory": "128GB",
+        "price": "159890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a54_128gb_black_271144_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X9b  Midnight Black",
+        "memory": "256GB",
+        "price": "179990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_x9b_256gb_midnight_black_275781_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23+  Green",
+        "memory": "512GB",
+        "price": "399890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_s916bzggskz_thx_66_50_5_galaxy_s23_512gb_green_269589_1q.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A25 5G  Yellow",
+        "memory": "128GB",
+        "price": "109890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a25_5g_128gb_yellow_277338_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15  Green (MTP53)",
+        "memory": "128GB",
+        "price": "449990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_128gb_green_mtp53_274376_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A18  Glowing Black",
+        "memory": "128GB",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a18_128gb_thx_ad_656_8_4_glowing_black_275774_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor 90 Lite  Titanium Silver",
+        "memory": "8+256GB",
+        "price": "109990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_90_lite_8256gb_titanium_silver_272969_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A78  Mist Black",
+        "memory": "256GB",
+        "price": "129990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a78_256gb_thx_ad_643_50_4_mist_black_273654_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A78  Aqua Green",
+        "memory": "256GB",
+        "price": "129990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a78_256gb_thx_ad_643_50_4_aqua_green_273653_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y02t  Cosmic Grey",
+        "memory": "64/4GB",
+        "price": "49990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_vivo_y02t_64gb_cosmic_grey_273640_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Oppo Reno11F  Palm Green",
+        "memory": "256GB",
+        "price": "219990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_oppo_reno11f_256gb_palm_green_280190_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi 13C  Midnight Black",
+        "memory": "256GB/8GB",
+        "price": "79990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_xiaomi_redmi_13c_256gb8gb_thx_md_674_50_4_midnight_black_275983_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 256/8  Mint Green",
+        "memory": "GB",
+        "price": "109990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_256gb8gb_thx_md_667_108_4_mint_green_277332_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Oppo Reno11  Rock Grey",
+        "memory": "256GB",
+        "price": "299990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_oppo_reno11_256gb_rock_grey_280187_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo V30 256/12Gb Noble Black",
+        "memory": "N/A",
+        "price": "299990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_v30_thx_678_50_5_256gb_noble_black_278779_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 13  Starlight",
+        "memory": "256GB",
+        "price": "394990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F252951_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A57s  Starry Black",
+        "memory": "128GB",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_oppo_a57s_128gb_starry_black_267874_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Xiaomi Redmi 13C  Navy Blue",
+        "memory": "256GB/8GB",
+        "price": "79990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_xiaomi_redmi_13c_256gb8gb_thx_md_674_50_4_navy_blue_275984_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y100 256/8 Gb Breeze Green",
+        "memory": "N/A",
+        "price": "159990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y100_thx_667_50_5_256gb_breeze_green_279687_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A35 5G  Awesome Navy",
+        "memory": "256GB",
+        "price": "189890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a35_5g_256gbawesome_navy_279422_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A55 5G  Awesome Iceblue",
+        "memory": "256/8GB",
+        "price": "229890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a556elbcskz_galaxy_a55_5g_256gb_awesome_iceblue_279426_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  Blue Titanium (MU7F3)",
+        "memory": "512GB",
+        "price": "839990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_512gb_blue_titanium_mu7f3_274425_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X6a  Cyan Lake",
+        "memory": "128GB",
+        "price": "64990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_honor_x6a_128gb4gb_thx_656_50_4_cyan_lake_273110_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO Reno 8T  Midnight Black",
+        "memory": "256GB",
+        "price": "159990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_reno8t_256gb_thx_md_643_100_4_midnight_black_273148_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 14  Purple",
+        "memory": "128GB",
+        "price": "394990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F265271_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S24 5G  Onyx Black",
+        "memory": "256GB",
+        "price": "409890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s24_5g_256gb_onyx_black_277503_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A05 64Gb Light Green",
+        "memory": "N/A",
+        "price": "49890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a05_64gb_light_green_276035_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 256/8  Ice Blue",
+        "memory": "GB",
+        "price": "109990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_256gb8gb_thx_md_667_108_4_ice_blue_277331_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 14 Pro 1TB Deep Purple",
+        "memory": "N/A",
+        "price": "979990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F265314_1ss.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo V29 256Gb Peak Blue",
+        "memory": "N/A",
+        "price": "289990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_vivo_v29_256gb_peak_blue_274197_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X8b  Glamorous Green",
+        "memory": "8/256GB",
+        "price": "139990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_x8b_8256gb_glamorous_green_277253_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A55 5G 256/8  Awesome Lilac",
+        "memory": "GB",
+        "price": "229890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_samsung_sm_a556elvcskz_galaxy_a55_5g_256gb_awesome_lilac_279427_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor 90 8+256 Peacock Blue",
+        "memory": "N/A",
+        "price": "239990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_90_8256_peacock_blue_272836_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y17s 128/4 Gb Glitter Purple",
+        "memory": "N/A",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y17s_thx_656_50_4_1284gb_glitter_purple_276058_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X9b  Emerald Green",
+        "memory": "256GB",
+        "price": "179990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_honor_x9b_256gb_emerald_green_275782_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi 13C  Midnight Black",
+        "memory": "128GB/6GB",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_xiaomi_redmi_13c_128gb6gb_thx_md_674_50_4_midnight_black_275979_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y27s 128/8Gb Garden Green",
+        "memory": "N/A",
+        "price": "94990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y27s_thx_664_50_4_1288gb_garden_green_276061_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 Pro+  Midnight Black",
+        "memory": "512GB/12GB",
+        "price": "229990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_redmi_note_13_pro_512gb12gb_midnight_black_277344_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A58  Black",
+        "memory": "128GB",
+        "price": "99990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a58_128gb_thx_ad_656_50_4_black_273656_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23 FE 5G  Purple",
+        "memory": "256GB",
+        "price": "289890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s23_fe_5g_256gb_purple_275680_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A35 5G  Awesome Lilac",
+        "memory": "128GB",
+        "price": "169890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a35_5g_128gbawesome_lilac_279418_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 11  White",
+        "memory": "128GB",
+        "price": "269990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F228943_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo Y17s 128/4 Gb Diamond Orange",
+        "memory": "N/A",
+        "price": "69990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_vivo_y17s_thx_656_50_4_1284gb_diamond_orange_279806_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy A35 5G  Awesome Iceblue",
+        "memory": "128GB",
+        "price": "169890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_a35_5g_128gbawesome_iceblue_279417_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 14 Pro 1TB Space Black",
+        "memory": "N/A",
+        "price": "619990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2F265311_1v.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Honor X5 Plus  Cyan Lake",
+        "memory": "64GB",
+        "price": "49990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_honor_x5_plus_64gb4gb_thx_656_50_4_cyan_lake_273113_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 Pro+  Mystic Silver",
+        "memory": "512GB/12GB",
+        "price": "229990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_redmi_note_13_pro_512gb12gb_mystic_silver_280019_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy Z Flip5  Mint",
+        "memory": "512GB",
+        "price": "449890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_z_flip5_512gb_mint_273164_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max 1TB Natural Titanium (MU7J3)",
+        "memory": "N/A",
+        "price": "100999",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_1tb_natural_titanium_mu7j3_274428_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Samsung Galaxy S23 FE 5G  Mint",
+        "memory": "256GB",
+        "price": "289890",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_samsung_galaxy_s23_fe_5g_256gb_mint_275678_1z.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A58  Green",
+        "memory": "128GB",
+        "price": "99990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a58_128gb_thx_ad_656_50_4_green_273655_1a.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон OPPO A38 128/4Gb Glowing Black",
+        "memory": "N/A",
+        "price": "79990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_oppo_a38_thx_656_50_4_128gb_glowing_black_274316_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Vivo V29e 256Gb Forest Black",
+        "memory": "N/A",
+        "price": "219990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_vivo_v29e_256gb_forest_black_275512_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Redmi Note 13 Pro 256/8  Forest Green",
+        "memory": "GB",
+        "price": "139990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_gsm_redmi_note_13_pro_256gb8gb_thx_md_667_200_4_forest_green_277298_1.webp&w=384&q=100"
+    },
+    {
+        "category": "Smartphone",
+        "model": "Смартфон Apple iPhone 15 Pro Max  White Titanium (MU7D3)",
+        "memory": "512GB",
+        "price": "839990",
+        "image": "/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F272%2F272%2Fsmartfon_apple_iphone_15_pro_max_512gb_white_titanium_mu7d3_274423_1.webp&w=384&q=100"
+    }
+]

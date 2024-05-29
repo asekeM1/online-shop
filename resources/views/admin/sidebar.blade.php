@@ -21,10 +21,18 @@
                with font-awesome or any other icon font library -->
                <li class="nav-header">Управление</li>
                <li class="nav-item">
-                <a href="{{ url('/products') }}" class="nav-link">
+                <a href="{{ url('admin/products') }}" class="nav-link">
                    <i class="ion-android-create"></i>
                    <p>
                      Посты
+                   </p>
+                 </a>
+               </li>
+               <li class="nav-item">
+                <a href="{{ url('admin/categories') }}" class="nav-link">
+                   <i class="ion-android-create"></i>
+                   <p>
+                     Категории
                    </p>
                  </a>
                </li>

@@ -9,15 +9,16 @@ class CreateProductsTable extends Migration
     /**
      * Run the migrations.
      */
-    public function up(): void
+    public function up()
     {
         Schema::create('products', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->text('description'); // Описание продукта
+            $table->unsignedBigInteger('category_id')->default(3); // Установим значение по умолчанию на "GSM"
+            $table->string('model');
+            $table->string('memory');
+            $table->text('description')->nullable(); // Описание продукта
             $table->decimal('price', 8, 2); // Цена с точностью до 2 десятичных знаков
             $table->string('image')->nullable(); // Путь к изображению продукта (может быть пустым)
-            $table->string('category')->nullable(); // Категория продукта (может быть пустой)
             $table->timestamps();
         });
     }
